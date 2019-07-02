@@ -59,7 +59,7 @@ echo $green."
 |___/|_| |_||_|_| |_| |___/|_| |_||___/\n".$yellow.
 "Free SpaM";
 echo $blue."
-[!] Author   : Mr.yM				[!]
+[!] Author   : Mr.yM                        [!]
 [!] Youtube  : www.youtube.com/MAULANARyM   [!]
 [!] github   : github.com/MaulanaRyM        [!]\n";
 echo "";
